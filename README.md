@@ -13,7 +13,7 @@ Kayode Samuel is a full stack software engineer with a flare for creating qualit
 - research internships and
 - available to become reviewer or PC member for software development journals or conferences.
 
-<!-- ## Skills:
+ ## Skills:
 
 #### Languages:
 
@@ -21,7 +21,7 @@ Kayode Samuel is a full stack software engineer with a flare for creating qualit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;-->
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
 
 ## Connect with me:
@@ -38,11 +38,10 @@ Kayode Samuel is a full stack software engineer with a flare for creating qualit
 
 
 
-----
-<!-- [<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats) -->
+----[<img src="https://github-profile-trophy.vercel.app/?username=samkaypro&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://github-readme-stats.vercel.app/api?username=samkaypro&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samkaypro&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-<!-- [![Daniel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-akinyemi&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Samuel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samkaypro&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
@@ -54,7 +53,7 @@ Kayode Samuel is a full stack software engineer with a flare for creating qualit
 
 
 <!--
-**daniel-akinyemi/daniel-akinyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -66,4 +65,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->"# samkaypro" 
+-->
