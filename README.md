@@ -39,9 +39,15 @@ Kayode Samuel is a full stack software engineer with a flare for creating qualit
 
 <!--
 ----[<img src="https://github-profile-trophy.vercel.app/?username=samkaypro&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=samkaypro&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)-->
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samkaypro&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
+[<img src="https://github-readme-stats.vercel.app/api?username=samkaypro&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />]--><!--(https://github.com/anuraghazra/github-readme-stats)-->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samkaypro&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+
+
+
+
 <!--
  [![Samuel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samkaypro&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 -->
