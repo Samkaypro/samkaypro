@@ -4,13 +4,13 @@
 <!-- Hi! I am a full-stack software engineer with a passion for building great and bleeding-edge software
  -->
 
-Kayode Samuel is a full stack software engineer with a flare for creating quality software that improve people's lives. With a focus on user experience, design and accessibility, his passion for creating exceptional user-experience through software shines through in his meticulous problem-solving and attention to detail.
+I, am Kayode Samuel a software engineer with passion for creating quality software that impacts lives. I focus on creating quality software with great user experience, cool designs and robust architecture.
  
- **I am open to**:
+ **I am open for**:
 
+- Jobs,
 - Collobration work,
 - Web application projects(development or research),
-- research internships and
 - available to become reviewer or PC member for software development journals or conferences.
 
 <!-- ## Skills:
