@@ -21,7 +21,22 @@ I'm a software engineer and full-stack web and mobile developer with a deep pass
 - Database: `Postgress` `Mysql`
 - Backend framworks: `Laravel` `Nuxt.Js` 
 - Frontend framworks: `NextJs` `ReactJs`
-- CMS: `Shopify` `Wordpress` 
+- CMS: `Shopify` `Wordpress`
+
+## Skills
+- Languages: `JAVASCRIPT` `PYTHON` `PHP`
+- Database: `POSTGRES` `MYSQL`
+- Backend Frameworks: `LARAVEL` `NUXT.JS`
+- Frontend Frameworks: `NEXT.JS` `REACT.JS`
+- CMS: `SHOPIFY` `WORDPRESS`
+
+## Skills
+- Languages: <span style="color:blue">JAVASCRIPT</span> <span style="color:green">PYTHON</span> <span style="color:red">PHP</span>
+- Database: <span style="color:purple">POSTGRES</span> <span style="color:orange">MYSQL</span>
+- Backend Frameworks: <span style="color:brown">LARAVEL</span> <span style="color:teal">NUXT.JS</span>
+- Frontend Frameworks: <span style="color:gold">NEXT.JS</span> <span style="color:cyan">REACT.JS</span>
+- CMS: <span style="color:magenta">SHOPIFY</span> <span style="color:lime">WORDPRESS</span>
+
 
 <!-- ## Skills:
 
