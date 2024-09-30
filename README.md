@@ -1,17 +1,27 @@
+# 👋 Hello! 
 
-**`Digital Craftsman (Software Engineer)`**
+**`My name is Kayode Samuel (samkaypro)`**
 
-<!-- Hi! I am a full-stack software engineer with a passion for building great and bleeding-edge software
- -->
 
-I, am Kayode Samuel a software engineer with passion for creating quality software that impacts lives. I focus on creating quality software with great user experience, cool designs and robust architecture.
+I'm a software engineer and full-stack web and mobile developer with a deep passion for programming and technology. Outside of coding, I enjoy watching tech videos, challenging myself with chess, staying active through sports, and keeping up with the latest trends by reading developer blogs.
  
- **I am open for**:
+## About Me
+- Location: Abuja, Nigeria
+- Industry Experience: 5+ years
+- Education: Bachelor of Science in Computer Science
 
-- Jobs,
-- Collobration work,
-- Web application projects(development or research),
-- available to become reviewer or PC member for software development journals or conferences.
+## Projects
+- 🤖 I founded an AI telemedicine startup focused on leveraging AI to enhance medical services.
+- 💻 I have developed full-stack applications for companies, delivering scalable and efficient software solutions.
+- 🛒 i have Built AI solutions and custom management systems for schools, businesses, and large enterprises.
+- 🚀 I have contributed to open-source projects.
+
+## Skills
+- Languages: `Javascript` `Python` `PHP`
+- Database: `Postgress` `Mysql`
+- Backend framworks: `Laravel` `Nuxt.Js` 
+- Frontend framworks: `NextJs` `ReactJs`
+- CMS: `Shopify` `Wordpress` 
 
 <!-- ## Skills:
 
