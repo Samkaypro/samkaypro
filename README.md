@@ -2,8 +2,7 @@
 
 **`My name is Kayode Samuel (samkaypro)`**
 
-
-I'm a software engineer and full-stack web and mobile developer with a deep passion for programming and technology. Outside of coding, I enjoy watching tech videos, challenging myself with chess, staying active through sports, and keeping up with the latest trends by reading developer blogs.
+I'm a software engineer and full-stack web and mobile developer with a deep passion for programming and technology. Outside of coding, I enjoy watching tech videos, challenging myself with chess, and keeping up with the latest trends by reading developer blogs.
  
 ## About Me
 - Location: Abuja, Nigeria
@@ -13,40 +12,15 @@ I'm a software engineer and full-stack web and mobile developer with a deep pass
 ## Projects
 - 🤖 I founded an AI telemedicine startup focused on leveraging AI to enhance medical services.
 - 💻 I have developed full-stack applications for companies, delivering scalable and efficient software solutions.
-- 🛒 i have Built AI solutions and custom management systems for schools, businesses, and large enterprises.
+- 🛒 I have Built AI solutions and custom management systems for schools, businesses, and large enterprises.
 - 🚀 I have contributed to open-source projects.
 
 ## Skills
-- Languages: `Javascript` `Python` `PHP`
-- Database: `Postgress` `Mysql`
-- Backend framworks: `Laravel` `Nuxt.Js` 
-- Frontend framworks: `NextJs` `ReactJs`
-- CMS: `Shopify` `Wordpress`
-
-## Skills
-- Languages: `JAVASCRIPT` `PYTHON` `PHP`
-- Database: `POSTGRES` `MYSQL`
-- Backend Frameworks: `LARAVEL` `NUXT.JS`
-- Frontend Frameworks: `NEXT.JS` `REACT.JS`
-- CMS: `SHOPIFY` `WORDPRESS`
-
-## Skills
-- Languages: <span style="color:blue">JAVASCRIPT</span> <span style="color:green">PYTHON</span> <span style="color:red">PHP</span>
-- Database: <span style="color:purple">POSTGRES</span> <span style="color:orange">MYSQL</span>
-- Backend Frameworks: <span style="color:brown">LARAVEL</span> <span style="color:teal">NUXT.JS</span>
-- Frontend Frameworks: <span style="color:gold">NEXT.JS</span> <span style="color:cyan">REACT.JS</span>
-- CMS: <span style="color:magenta">SHOPIFY</span> <span style="color:lime">WORDPRESS</span>
-
-
-<!-- ## Skills:
-
-#### Languages:
-
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;-->
+- Backend Frameworks:    `LARAVEL`    `NUXT.JS`
+- Frontend Frameworks:   `NEXT.JS`    `REACT.JS`
+- Languages:             `JAVASCRIPT` `PYTHON`    `PHP`
+- Database:              `POSTGRES`   `MYSQL`
+- CMS:                   `SHOPIFY`    `WORDPRESS`
 
 
 ## Connect with me:
