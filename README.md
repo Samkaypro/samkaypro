@@ -16,7 +16,7 @@ I'm a software engineer and full-stack web and mobile developer with a deep pass
 - 🚀 I have contributed to open-source projects.
 
 ## Skills
-- Backend Frameworks:    `LARAVEL`    `NUXT.JS`
+- Backend Frameworks:    `LARAVEL`    `NUXT.JS` `ADONIS.JS`
 - Frontend Frameworks:   `NEXT.JS`    `REACT.JS`
 - Languages:             `JAVASCRIPT` `PYTHON`    `PHP`
 - Database:              `POSTGRES`   `MYSQL`
