@@ -35,6 +35,8 @@ I'm a software engineer and full-stack web and mobile developer with a deep pass
 </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Samkaypro" alt="Samkaypro" /> </p>
+
 
 <!--
 ----[<img src="https://github-profile-trophy.vercel.app/?username=samkaypro&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
