@@ -5,7 +5,6 @@
 I'm a software engineer and full-stack web and mobile developer with a deep passion for programming and technology. Outside of coding, I enjoy watching tech videos, challenging myself with chess, and keeping up with the latest trends by reading developer blogs.
  
 ## About Me
-- Location: Abuja, Nigeria
 - Industry Experience: 5+ years
 - Education: Bachelor of Science in Computer Science
 
